@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvarse",
+        "uuid": 18100386,
+        "checksum": "le0j3"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
